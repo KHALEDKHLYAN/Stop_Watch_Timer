@@ -28,4 +28,7 @@ The code uses two event listeners to handle button clicks:
 `resetBtn.addEventListener`: This event listener resets the stopwatch when the reset button is clicked. It clears the timerInterval value, sets the time values to zero, and updates the stopwatch display to show "00:00:00".
 
 <h1>How to Use</h1>
-To use this code, you can copy and paste it into a JavaScript file and link it to an HTML page that contains two buttons and a timer display. You can customize the appearance of the stopwatch using CSS. When the page loads, the stopwatch will be in the stopped state. Clicking the start/stop button will start the stopwatch, and clicking it again will stop it. Clicking the reset button will reset the stopwatch to zero.
+To use this code, you can copy and paste it into a JavaScript file and link it to an HTML page that contains two buttons and a timer display. 
+You can customize the appearance of the stopwatch using CSS. When the page loads, the stopwatch will be in the stopped state.
+Clicking the start/stop button will start the stopwatch, and clicking it again will stop it.
+Clicking the reset button will reset the stopwatch to zero.
